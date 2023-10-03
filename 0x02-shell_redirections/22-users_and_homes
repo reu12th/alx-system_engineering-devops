@@ -1,3 +1,3 @@
 #!/bin/bash
-sort -t ':' -k 1 /etc/passwd | cut -d ':' -f 1,6
+awk -F: '{print "User: " $1 ", Home: " $6}' /etc/passwd | sort
 
