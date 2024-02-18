@@ -57,7 +57,8 @@ Complete the 9 next tasks, getting to 18 total.
 -   File: `1-next_9_tasks.png`
 
 
-## <p align="left">2\. Reach the perfect cube, 27</p> <p align="right">`#advanced`</p>
+## 2\. Reach the perfect cube, 27 
+#### <p align="right">`#advanced`</p>
 
 Complete the 9 next tasks, getting to 27 total.
 
