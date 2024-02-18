@@ -1,6 +1,5 @@
 # Command line for the win
 ### `Bash` `Scripting`
-========================
 
 -   By Sylvain Kalache, co-founder at Holberton School
 -   Weight: 1
@@ -32,12 +31,9 @@ More Info
 
 **It is your responsibility to request a review for this project from a peer. If no peers have been reviewed, you should request a review from a TA or staff member.**
 
-Tasks
------
+# Tasks
 
-### 0\. First 九 tasks
-
-#advanced
+## 0\. First 九 tasks `#advanced`
 
 Complete the first 9 tasks.
 
@@ -47,11 +43,8 @@ Complete the first 9 tasks.
 -   Directory: `command_line_for_the_win`
 -   File: `0-first_9_tasks.png`
 
- Done? Help
 
-### 1\. Reach חי completed tasks
-
-#advanced
+## 1\. Reach חי completed tasks `#advanced`
 
 Complete the 9 next tasks, getting to 18 total.
 
@@ -61,11 +54,8 @@ Complete the 9 next tasks, getting to 18 total.
 -   Directory: `command_line_for_the_win`
 -   File: `1-next_9_tasks.png`
 
- Done? Help
 
-### 2\. Reach the perfect cube, 27
-
-#advanced
+## 2\. Reach the perfect cube, 27 `#advanced`
 
 Complete the 9 next tasks, getting to 27 total.
 
@@ -75,7 +65,6 @@ Complete the 9 next tasks, getting to 27 total.
 -   Directory: `command_line_for_the_win`
 -   File: `2-next_9_tasks.png`
 
- Done? Help
 
 Ready for a manual review
 
