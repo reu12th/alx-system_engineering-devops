@@ -33,7 +33,8 @@ More Info
 
 # Tasks
 
-## 0\. First 九 tasks `#advanced`
+## 0\. First 九 tasks 
+#### `#advanced`
 
 Complete the first 9 tasks.
 
@@ -44,7 +45,8 @@ Complete the first 9 tasks.
 -   File: `0-first_9_tasks.png`
 
 
-## 1\. Reach חי completed tasks `#advanced`
+## 1\. Reach חי completed tasks 
+#### `#advanced`
 
 Complete the 9 next tasks, getting to 18 total.
 
@@ -55,7 +57,8 @@ Complete the 9 next tasks, getting to 18 total.
 -   File: `1-next_9_tasks.png`
 
 
-## 2\. Reach the perfect cube, 27 `#advanced`
+## 2\. Reach the perfect cube, 27 
+#### `#advanced`
 
 Complete the 9 next tasks, getting to 27 total.
 
