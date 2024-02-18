@@ -34,7 +34,7 @@ More Info
 # Tasks
 
 ## 0\. First 九 tasks 
-#### `#advanced`
+#### <p align="right">`#advanced`</p>
 
 Complete the first 9 tasks.
 
@@ -46,7 +46,7 @@ Complete the first 9 tasks.
 
 
 ## 1\. Reach חי completed tasks 
-#### `#advanced`
+#### <p align="right">`#advanced`</p>
 
 Complete the 9 next tasks, getting to 18 total.
 
