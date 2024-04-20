@@ -1,7 +1,6 @@
-#This script kills a process and works together with the killmenow file which has already been provided
+#kills a process and works together with the killmenow file
 exec { 'killmenow':
-  ensure   => 'exec',
-  command  =>  '/usr/bin/pkill killmenow',
+  command  =>  'pkill -f killmenow',
   provider =>  'shell',
-  return   =>  [0, 1],
+  path     =>  ['/usr/bin', '/usr/sbin']
 }
