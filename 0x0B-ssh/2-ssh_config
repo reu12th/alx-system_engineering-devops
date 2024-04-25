@@ -1,7 +1,7 @@
 #SSH Config file
 
 Host New-server
-	      Hostname 18.204.20.131
+	      Hostname 100.26.122.228
 	      User ubuntu
 	      PasswordAuthentication no
 	      IdentifyFile ~/.ssh/school
